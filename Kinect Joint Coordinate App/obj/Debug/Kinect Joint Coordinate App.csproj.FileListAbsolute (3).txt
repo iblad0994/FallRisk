@@ -1,0 +1,391 @@
+C:\Users\OBOLO\AppData\Local\Temporary Projects\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\AppData\Local\Temporary Projects\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\AppData\Local\Temporary Projects\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\AppData\Local\Temporary Projects\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\AppData\Local\Temporary Projects\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Projects\Kinect Joint Coordinate App (Vel_Acc_02)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_03)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP1\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP2 - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3 -\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+G:\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+G:\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+G:\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse) - DUP3-counter\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Query_11) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_12)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_Chart_13) - Copy\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_14)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (Vel_Acc_Seg_Save_databse_counter_SQL_Gridview_ChartNTables_5thN95th_Date_Time_17)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_Date_Time_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_19)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_20)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_21)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_22)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_23)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_24)_Voice_Recognition\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_25)_Code_Organized\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\OBOLO\Documents\Visual Studio 2015\Projects\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe.config
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Kinect Joint Coordinate App.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.dll
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.pdb
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\MathNet.Numerics.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\bin\Debug\Microsoft.Kinect.xml
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csprojResolveAssemblyReference.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Form1.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect_Joint_Coordinate_App.Properties.Resources.resources
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.GenerateResource.Cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.csproj.CoreCompileInputs.cache
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.exe
+C:\Users\eadadzie\Documents\Kinect Joint Coordinate App (CV_ChartNTables_5thN95th_DailyCVs_Anova_Ttest_Counter_26)_LowerBody_PII\Kinect Joint Coordinate App\obj\Debug\Kinect Joint Coordinate App.pdb

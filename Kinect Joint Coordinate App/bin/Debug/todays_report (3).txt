@@ -1,0 +1,10 @@
+WEEKLY GAIT REPORT
+ 
+DAY         G.S. (m/s)            C.V. (%)             P.R. (%)
+SUN	    	           	
+MON	    .62	           29.83	                    -14.1
+TUE	    	           	                    
+WED	    	           	
+THU	    	           	
+FRI	    	           	                    
+SAT	    	           	
